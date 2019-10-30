@@ -8,7 +8,7 @@ Imgurl. Dan untuk saat ini akan kami tambahkan kedua tersebut.
 
 
 ## Cara Pakai
-1. download / clone dari file [HOSTS](https://github.com/masdzub/)
+1. download / clone dari file [HOSTS](https://github.com/masdzub/hosts-file/blob/master/hosts)
 2. Jika sudah, silahkan anda copykan ke file host anda.
 
 ### Lokasi file hosts
